@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap');
+
+body{
+    background-image: linear-gradient(115deg, rgba(29, 30, 30, 0.8), rgba(0, 0, 0, 0.8)), url("https://images.pexels.com/photos/268460/pexels-photo-268460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Nunito', sans-serif;
+}
+
+.btn{
+    background-color: #ff2e00;
+}
